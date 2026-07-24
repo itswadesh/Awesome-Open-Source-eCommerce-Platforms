@@ -65,6 +65,7 @@
 | [Magento Open source](https://magento.com/products/magento-open-source) | Magento Open Source eCommerce delivers the features you need to build and grow a unique online store from the ground up. |   Magento   |
 | [Opencart](https://github.com/opencart/opencart)                        |              A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.               |  Opencart   |
 | [OroCommerce](https://github.com/oroinc/orocommerce-application)        |                                  An open-source Business to Business Commerce platform.                                  | OroCommerce |
+| [Phoenix Cart](https://github.com/CE-PhoenixCart/PhoenixCart)                  | A free and open-source PHP eCommerce platform designed to help merchants build, manage, and grow online stores with modern features and extensibility. | Phoenix Cart  |
 | [PrestaShop](https://github.com/PrestaShop/PrestaShop)                  |                            PrestaShop offers a fully scalable open source ecommerce solution.                            | PrestaShop  |
 | [Sylius](https://github.com/Sylius/Sylius)                              |                             Sylius is an Open Source eCommerce Framework on top of Symfony.                              |   Symfony   |
 | [Thelia](https://github.com/thelia/thelia)                              |               Thelia is an open source tool for creating e-business websites and managing online content.                |   Symfony   |
